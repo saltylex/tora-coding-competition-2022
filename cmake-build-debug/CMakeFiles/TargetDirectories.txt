@@ -1,0 +1,3 @@
+C:/Users/lexig/CLionProjects/tora/cmake-build-debug/CMakeFiles/tora.dir
+C:/Users/lexig/CLionProjects/tora/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lexig/CLionProjects/tora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
